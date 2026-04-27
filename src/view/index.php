@@ -27,7 +27,7 @@
                 <input type="number" name="age" placeholder="Age" required>
             </div>
 
-            <button type="submit" id="btnEnviar">Send to MongoDB Atlas</button>
+            <button type="submit" id="btnEnviar">Send Info</button>
         </form>
     </div>
 
